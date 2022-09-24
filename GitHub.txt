@@ -1,6 +1,4 @@
-GitHub   - August 26 2022
-======  
-
+GitHub - September 24th 2022
 1. What is Github/Bitbucket/Gitlab
 2. Overview of github
 3. Installation of ORS tools
